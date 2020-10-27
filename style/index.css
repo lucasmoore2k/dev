@@ -185,7 +185,7 @@ img{
 }
 
 .div3{
-  background: url('imgs/back3.jpeg') no-repeat center center;
+  background: url('../imgs/back3.jpeg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -198,15 +198,4 @@ img{
   width: 40px;
   height: 40px;
   background-color: transparent;
-}
-
-.div4{
-  background: url('imgs/back3.jpeg') no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 5vh;
-
 }
